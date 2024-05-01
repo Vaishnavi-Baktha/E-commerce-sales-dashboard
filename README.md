@@ -1,4 +1,4 @@
 # E-commerce-sales-dashboard
 ##
 #OUTPUT 
-![Output](C:\Users\VaishatWork\Pictures\Screenshots)
+![Output](Screenshot2024-05-01173831.png)
