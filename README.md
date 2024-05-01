@@ -1,4 +1,4 @@
 # E-commerce-sales-dashboard
 ##
 #OUTPUT 
-![C:\Users\Vaish at Work\Pictures\Screenshots]
+![Output](C:\Users\VaishatWork\Pictures\Screenshots)
